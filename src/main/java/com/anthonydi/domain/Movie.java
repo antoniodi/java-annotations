@@ -1,4 +1,4 @@
-package domain;
+package com.anthonydi.domain;
 
 public class Movie {
 
